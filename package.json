@@ -1,0 +1,31 @@
+{
+  "name": "blogIN6AM",
+  "version": "1.0.0",
+  "description": "Ejemplo de aplicación",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/retana/blog.git"
+  },
+  "keywords": [
+    "Blog",
+    "in6am",
+    "Francisco",
+    "Retana"
+  ],
+  "author": "Francisco Retana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/retana/blog/issues"
+  },
+  "homepage": "https://github.com/retana/blog"
+}
