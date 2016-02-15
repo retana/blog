@@ -1,0 +1,10 @@
+.miClase{
+	background:blue;
+}
+#miID{
+	padding:50px;
+}
+
+body > section >form > input[type=text]{
+	background:red;
+} 
